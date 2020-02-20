@@ -27,7 +27,7 @@ Now various Pharmacokinetic parameters may be adjusted and simulated:
 ![example-gif](demo.gif)
 
 ## PK Graph Guide
-A small [guide](PK Graph Guide.pdf) describes using the simulator.
+A small [guide](PK%20Graph%20Guide.pdf) describes using the simulator.
 
 ## Built With
 
