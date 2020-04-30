@@ -18,7 +18,9 @@ Download a copy of the repository to your local system (using either terminal or
 git clone https://github.com/sladem-tox/Pharmacokinetic-sym
 ```
 
-Extract the contents of the repository.
+Choose download zip and then extract the contents of the repository.
+
+Navigate to the .exe file inside the "ddmmyy Compilation" folder.
 
 Double-click the file ```PK Graph.exe``` to open the simulator
 
