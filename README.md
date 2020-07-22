@@ -18,7 +18,8 @@ Download a copy of the repository to your local system (using either terminal or
 git clone https://github.com/sladem-tox/Pharmacokinetic-sym
 ```
 
-Choose download zip and then extract the contents of the repository.
+### Manual Download:
+Choose download zip (press green button marked "Code" above) save to your local machine and then extract the contents.
 
 Navigate to the .exe file inside the "ddmmyy Compilation" folder.
 
